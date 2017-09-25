@@ -1,0 +1,2 @@
+sonos-mpris-bridge
+==================
